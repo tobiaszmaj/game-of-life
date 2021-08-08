@@ -6,7 +6,7 @@ Conway's Game of Life, made with React and Typescript.
 
 ## Demo
 
-Check out the demo! - [LINK]()
+Check out the demo! - [LINK](https://game-of-life-tobiaszmaj.vercel.app/)
 
 ## Technologies
 
